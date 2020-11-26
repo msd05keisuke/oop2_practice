@@ -1,7 +1,7 @@
 import modules.SayHello as App
 
 def run():
-    app = App.SayHello("PornHub")
+    app = App.SayHello("KUSAI")
     app.say()
 
 
